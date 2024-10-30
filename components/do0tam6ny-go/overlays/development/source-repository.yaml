@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: do0tam6ny-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/do0tam6ny-go
